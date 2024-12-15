@@ -20,7 +20,8 @@ body {
     padding: 3rem 0;
     gap: 3rem;
     font-family: 'Poppins', sans-serif;
-    background: url('imagens/fundook.jpg') no-repeat center center fixed; /* Imagem de fundo */
+    background: #000
+    /* url('imagens/fundook.jpg') no-repeat center center fixed; Imagem de fundo */
     background-size: cover; /* Ajusta a imagem para cobrir todo o fundo */
 }
 
